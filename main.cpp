@@ -21,11 +21,11 @@ int main() {
       l = l << 1;    
     }
     
-    //m(0.5,0.5);
+    m(0.5,0.5);
     buz = 1;
     servo1.pulsewidth_us(2000);
     wait(1);
-    //m(-0.5,-0.5);
+    m(-0.5,-0.5);
     buz = 0;
     servo1.pulsewidth_us(1000);
     wait(1);  
