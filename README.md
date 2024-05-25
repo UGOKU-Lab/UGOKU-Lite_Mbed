@@ -10,3 +10,5 @@ File → Clone
 2. 本リポジトリのURLをコピペ
 
 ![image](https://github.com/UGOKU-Lab/UGOKU-Lite_Mbed/assets/27545627/95f2acb0-87a3-4f52-b2fb-23f8b751c46a)
+
+備考：mbed2なので、mbed OSに対応させたほうがいい？
